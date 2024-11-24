@@ -3,8 +3,6 @@ This is a calculator created by the Python programming language.
 
 [YouTube](https://www.youtube.com/@Moh-leoKing)
 
-![Calculator](https://www.mediafire.com/view/g3704gi3dkwa3fu/Moh-leoKing.png/file)
-
 ## Start
 ```
 $ python main.py
