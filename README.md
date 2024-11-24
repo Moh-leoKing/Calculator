@@ -3,7 +3,7 @@ This is a calculator created by the Python programming language.
 
 [YouTube](https://www.youtube.com/@Moh-leoKing)
 
-![Calculator](https://github.com/Moh-leoKing/Calculator/blob/ee3b5d79b0d144502fba1de84e75b4bbb8c0dc97/repository-open-graph-template.png)
+![Calculator](https://code-projects.org/wp-content/uploads/2020/01/Capture-3.png)
 
 ## Start
 ```
