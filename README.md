@@ -3,7 +3,7 @@ This is a calculator created by the Python programming language.
 
 [YouTube](https://www.youtube.com/@Moh-leoKing)
 
-![Calculator](file:///C:/Users/leo_xKing/Videos/Captures/Moh-leoKing.png)
+![Calculator](https://www.mediafire.com/view/g3704gi3dkwa3fu/Moh-leoKing.png/file)
 
 ## Start
 ```
