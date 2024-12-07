@@ -15,3 +15,5 @@ $ python main.py
 
 ## Guides
 - Python Docs: [Python Documentation](https://docs.python.org/3/) - *The page contains various other guides available at the beginning, which can help you navigate and learn more about Python.*
+
+[![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
