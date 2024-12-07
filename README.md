@@ -6,8 +6,6 @@ This is a calculator created using the Python programming language.
 > [!IMPORTANT]
 > You can edit this code if needed to suit your requirements.
 
----
-
 ## How to Start
 ```
 $ python main.py
