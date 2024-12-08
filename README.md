@@ -9,7 +9,7 @@ This is a calculator created using the Python programming language.
 ---
 
 ## How to Start
-sdsfsdfdsfsf
+Open your terminal, navigate to the project directory, and follow the instructions to start the calculator:
 ```
 $ python main.py
 ```
