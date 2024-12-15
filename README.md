@@ -22,5 +22,3 @@ $ python main.py
 
 ## Guides
 - Python Docs: [Python Documentation](https://docs.python.org/3/) - The page contains various other guides available at the beginning, which can help you navigate and learn more about Python.
-
-https://user-images.githubusercontent.com/66446067/204672968-6584f360-4c52-434f-9c16-25761341368b.mp4
