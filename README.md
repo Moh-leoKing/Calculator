@@ -22,3 +22,5 @@ $ python main.py
 
 ## Guides
 - Python Docs: [Python Documentation](https://docs.python.org/3/) - The page contains various other guides available at the beginning, which can help you navigate and learn more about Python.
+
+https://github.com/razrez/nuget-master/assets/70781439/7c8ff54b-992e-4fce-8874-c382fde70ffd
