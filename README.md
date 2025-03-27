@@ -4,7 +4,7 @@ This calculator was created by the Python programming language.
 > [!IMPORTANT]
 > You can edit this code if needed to suit your requirements.
 
-## How to Start
+## How to Start?
 Run this command in your terminal:
 ```
 $ python main.py
