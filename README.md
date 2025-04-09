@@ -20,5 +20,5 @@ $ python main.py
 | **Division**    | Function to divide the first number by the second, with error handling for division by zero. |
 | **Main Function** | Provides an interface for users to select operations and input numbers, displaying the results interactively. |
 
-# Guide
+## Guide
 - Python Docs: [Python Documentation](https://docs.python.org/3/) - The page contains various other guides available at the beginning, which can help you navigate and learn more about Python.
