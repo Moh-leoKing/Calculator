@@ -7,7 +7,7 @@ This calculator was created by the Python programming language.
 ## How to Start?
 Run this command in your terminal:
 ```
-$ python main.py
+python main.py
 ```
 
 # Python Calculator
