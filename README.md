@@ -1,7 +1,7 @@
 # Calculator
 This calculator was created by the Python programming language.
 
-> [!NOTE]
+> [NOTE]
 > You can edit this code if needed to suit your requirements.
 
 ## How to Start?
